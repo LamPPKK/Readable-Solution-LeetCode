@@ -1,4 +1,8 @@
-# Readable-Solution-LeetCode
+# Readable Solution LeetCode
+
+<p align="center">
+  <img src="./preview.png" width="800" align="center" />
+</p>
 
 ## About
 
